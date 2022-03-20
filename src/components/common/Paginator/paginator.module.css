@@ -1,0 +1,35 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination span {
+    margin: 0 5px;
+    display: flex;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    color: #fff;
+}
+
+.arrowLeft, .arrowRight {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.arrowLeft {
+    transform: rotate(180deg);
+}
+
+.arrowLeft img, .arrowRight img {
+    width: 20px;
+    filter: invert(1);
+}
+
+.selectedPage {
+    font-weight: bold;
+    color: gold !important;
+}
+

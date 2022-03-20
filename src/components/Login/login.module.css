@@ -1,0 +1,13 @@
+.login {
+
+}
+
+.errorText {
+    padding: 10px 20px;
+    width: max-content;
+    color: red;
+}
+
+.errorText p {
+    font-size: 20px;
+}

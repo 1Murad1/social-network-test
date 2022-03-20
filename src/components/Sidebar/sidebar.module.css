@@ -1,0 +1,35 @@
+.sidebar {
+    background: #fff;
+    grid-area: sidebar;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    list-style: none;
+}
+.item {
+    text-decoration: none;
+    color: rgba(26, 24, 26, 1);
+    font-size: 18px;
+    line-height: 22px;
+    padding: 16px 65px;
+    display: flex;
+    transition: .5s all;
+    cursor: pointer;
+}
+
+.item:hover {
+    background: #300B31;
+    color: #fff;
+}
+
+
+.active {
+    background: #300B31;
+    color: gold;
+}
+.active:hover {
+    color: gold;
+}

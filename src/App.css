@@ -1,0 +1,17 @@
+.app-wrapper {
+    display: grid;
+    grid-template-rows: 100px 1fr 100px;
+    grid-template-columns: 2fr 10fr;
+    grid-template-areas:
+    "header header header"
+    "sidebar content content"
+    "footer footer footer";
+}
+
+.content {
+    display: flex;
+    background: linear-gradient(44.83deg, #300B31 0.7%, #DF5979 100.4%);
+    grid-area: content;
+    flex-direction: column;
+}
+
