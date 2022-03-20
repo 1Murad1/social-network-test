@@ -1,0 +1,11 @@
+.message  {
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    color: #fff;
+}
+
+.message:last-child {
+    margin-bottom: 0;
+}
+

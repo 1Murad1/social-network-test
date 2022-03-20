@@ -1,0 +1,42 @@
+.wrapperUser {
+    margin-bottom: 20px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.wrapperUser:last-child {
+    margin-bottom: 0;
+}
+.infoUser {
+    width: 300px;
+}
+
+.profileUser {
+    width: 100px;
+    display: flex;
+    margin-right: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.avatarUser {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.rowInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.rowInfo p {
+    font-size: 18px;
+    line-height: 20px;
+    color: #fff;
+}
+.activeButton {
+    cursor: pointer;
+}
+

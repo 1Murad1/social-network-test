@@ -1,0 +1,16 @@
+.post {
+    margin-bottom: 20px;
+}
+.avatar {
+    display: flex;
+    align-items: center;
+}
+.avatar img {
+    margin-right: 30px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.message {
+    font-size: 20px;
+}

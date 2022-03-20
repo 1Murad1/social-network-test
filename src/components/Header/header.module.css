@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    align-items: center;
+    grid-area: header;
+    background: cornflowerblue;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.header img {
+    width: 200px;
+}
+
+.authorization .itemLink {
+    text-decoration: none;
+    color: #fff;
+    transition: .5s all;
+    font-size: 20px;
+}
+
+.authorization .itemLink:hover {
+    color: gold;
+}

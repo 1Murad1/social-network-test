@@ -1,0 +1,16 @@
+.dialogItem {
+    margin-bottom: 10px;
+}
+.dialogItem .linkDialog  {
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.dialogItem:last-child {
+    margin-bottom: 0;
+}
+
+.dialogItem .activeLink {
+    color: gold;
+}
