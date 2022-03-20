@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/socila-network-test/static/css/main.4d2ae0d5.chunk.css",
-    "main.js": "/socila-network-test/static/js/main.6a31d161.chunk.js",
-    "main.js.map": "/socila-network-test/static/js/main.6a31d161.chunk.js.map",
-    "runtime-main.js": "/socila-network-test/static/js/runtime-main.f91ebce8.js",
-    "runtime-main.js.map": "/socila-network-test/static/js/runtime-main.f91ebce8.js.map",
-    "static/js/2.1ad68d49.chunk.js": "/socila-network-test/static/js/2.1ad68d49.chunk.js",
-    "static/js/2.1ad68d49.chunk.js.map": "/socila-network-test/static/js/2.1ad68d49.chunk.js.map",
+    "main.js": "/socila-network-test/static/js/main.72906dcb.chunk.js",
+    "main.js.map": "/socila-network-test/static/js/main.72906dcb.chunk.js.map",
+    "runtime-main.js": "/socila-network-test/static/js/runtime-main.5612d9d7.js",
+    "runtime-main.js.map": "/socila-network-test/static/js/runtime-main.5612d9d7.js.map",
+    "static/js/2.64309e2d.chunk.js": "/socila-network-test/static/js/2.64309e2d.chunk.js",
+    "static/js/2.64309e2d.chunk.js.map": "/socila-network-test/static/js/2.64309e2d.chunk.js.map",
     "static/css/3.9cee97e7.chunk.css": "/socila-network-test/static/css/3.9cee97e7.chunk.css",
     "static/js/3.7cf49c3f.chunk.js": "/socila-network-test/static/js/3.7cf49c3f.chunk.js",
     "static/js/3.7cf49c3f.chunk.js.map": "/socila-network-test/static/js/3.7cf49c3f.chunk.js.map",
     "static/css/4.8f333fbc.chunk.css": "/socila-network-test/static/css/4.8f333fbc.chunk.css",
-    "static/js/4.79e5e3e2.chunk.js": "/socila-network-test/static/js/4.79e5e3e2.chunk.js",
-    "static/js/4.79e5e3e2.chunk.js.map": "/socila-network-test/static/js/4.79e5e3e2.chunk.js.map",
+    "static/js/4.e96951e7.chunk.js": "/socila-network-test/static/js/4.e96951e7.chunk.js",
+    "static/js/4.e96951e7.chunk.js.map": "/socila-network-test/static/js/4.e96951e7.chunk.js.map",
     "static/js/5.d1bae7bd.chunk.js": "/socila-network-test/static/js/5.d1bae7bd.chunk.js",
     "static/js/5.d1bae7bd.chunk.js.map": "/socila-network-test/static/js/5.d1bae7bd.chunk.js.map",
     "index.html": "/socila-network-test/index.html",
     "static/css/3.9cee97e7.chunk.css.map": "/socila-network-test/static/css/3.9cee97e7.chunk.css.map",
     "static/css/4.8f333fbc.chunk.css.map": "/socila-network-test/static/css/4.8f333fbc.chunk.css.map",
     "static/css/main.4d2ae0d5.chunk.css.map": "/socila-network-test/static/css/main.4d2ae0d5.chunk.css.map",
-    "static/js/2.1ad68d49.chunk.js.LICENSE.txt": "/socila-network-test/static/js/2.1ad68d49.chunk.js.LICENSE.txt",
+    "static/js/2.64309e2d.chunk.js.LICENSE.txt": "/socila-network-test/static/js/2.64309e2d.chunk.js.LICENSE.txt",
     "static/media/bg-one.2da30dc4.jpg": "/socila-network-test/static/media/bg-one.2da30dc4.jpg",
     "static/media/bg-three.4b8525db.jpg": "/socila-network-test/static/media/bg-three.4b8525db.jpg",
     "static/media/bg-two.4fc5db86.jpeg": "/socila-network-test/static/media/bg-two.4fc5db86.jpeg",
@@ -27,9 +27,9 @@
     "static/media/user-avatar.be2959bf.png": "/socila-network-test/static/media/user-avatar.be2959bf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f91ebce8.js",
-    "static/js/2.1ad68d49.chunk.js",
+    "static/js/runtime-main.5612d9d7.js",
+    "static/js/2.64309e2d.chunk.js",
     "static/css/main.4d2ae0d5.chunk.css",
-    "static/js/main.6a31d161.chunk.js"
+    "static/js/main.72906dcb.chunk.js"
   ]
 }
